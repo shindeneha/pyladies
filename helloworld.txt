@@ -2,5 +2,5 @@
 2. modified,tracked - git is tracking
 3. 	-modified
 	-staging
-
+4. hello earth
  
