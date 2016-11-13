@@ -1,0 +1,6 @@
+1. Untracked git is nt tracking files
+2. modified,tracked - git is tracking
+3. 	-modified
+	-staging
+
+ 
